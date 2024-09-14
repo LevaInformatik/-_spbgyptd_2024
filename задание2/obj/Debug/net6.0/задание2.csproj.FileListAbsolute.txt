@@ -1,0 +1,15 @@
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\bin\Debug\net6.0\задание2.exe
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\bin\Debug\net6.0\задание2.deps.json
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\bin\Debug\net6.0\задание2.runtimeconfig.json
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\bin\Debug\net6.0\задание2.dll
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\bin\Debug\net6.0\задание2.pdb
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.csproj.AssemblyReference.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.AssemblyInfo.cs
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.dll
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\refint\задание2.dll
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.pdb
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\задание2.genruntimeconfig.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\задание2\obj\Debug\net6.0\ref\задание2.dll
