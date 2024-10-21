@@ -1,0 +1,11 @@
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\bin\Debug\WIN.exe.config
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\bin\Debug\WIN.exe
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\bin\Debug\WIN.pdb
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.csproj.AssemblyReference.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.Form1.resources
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.Properties.Resources.resources
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.csproj.GenerateResource.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.exe
+C:\Users\1\Documents\GitHub\c-_spbgyptd_2024\WIN\obj\Debug\WIN.pdb
